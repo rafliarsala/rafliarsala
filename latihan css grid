@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Oswald:wght@200;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Merch Arsx</title>
+</head>
+<body>
+  <div class="container">
+
+    <header class="header">
+      <div class="hero">
+        <h2 class="heading">Merch Arsx Shop</h2>
+        <p class="sub-heading">T-shirt & Hoodie</p>
+      </div>
+      <div class="features feature-1">
+        <h4 class="price">Rp 50.000</h4>
+        <p class="item">Hoodie</p>
+      </div>
+      <div class="features feature-2">
+        <h4 class="price">Rp 30.000</h4>
+        <p class="item">T-shirt</p>
+      </div>
+    </header>
+
+    <nav class="menu">
+      <div class="menu-toggle">
+        <input type="checkbox"/>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="brand">
+        <h1>Merch Arsx</h1>
+      </div>
+
+      <ul class="menu-list">
+        <li><a href="">Home</a></li>
+        <li><a href="">Product</a></li>
+        <li><a href="">Services</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </nav>
+
+    <section class="services">
+      <div class="service">
+        <div class="icon"><img src="icon1.png" alt=""></div>
+        <h3>T-shirt</h3>
+        <p>Kami menyediakan berbagai kaos berbahan premium dengan sablon yang tidak mudah lepas dan awet.</p>
+      </div>
+
+      <div class="service">
+        <div class="icon"><img src="icon2.png" alt=""></div>
+        <h3>Hodie</h3>
+        <p>Berbagai Hodie yang akan membuatmu semakin tampil menarik dan kece tentunya dengan harga yang ramah di kantong</p>
+      </div>
+
+      <div class="service">
+        <div class="icon"><img src="icon4.png" alt=""></div>
+        <h3>Topi</h3>
+        <p>Selain T-shirt dan Hodie kami juga menawarkan aksesoris lain seperti topi sabuk dan aksesoris lainnya yang cocok dengan berbagai acara</p>
+      </div>
+
+      <div class="service">
+        <div class="icon"><img src="icon5.png" alt=""></div>
+        <h3>Celana</h3>
+        <p>Berbagai varian celana seperti jeans, cargo, chinos, dan masih banyak lagi.</p>
+      </div>
+    </section>
+
+    <sectin class="gallery">
+      <h2>Gallery</h2>
+      <img src=" https://source.unplash.com/random/200x200" alt="">
+    </sectin>
+  </div>
+
+</body>
+</html>
